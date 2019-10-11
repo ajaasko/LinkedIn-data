@@ -7,7 +7,6 @@ from selenium.common.exceptions import WebDriverException
 from selenium.common.exceptions import ElementNotVisibleException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options  
-from itertools import islice
 from urllib.request import urlopen
 import time as t#delay
 import datetime
