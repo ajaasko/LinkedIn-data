@@ -1,5 +1,5 @@
 # Your LinkedIn post statistics
-A python script that collects data (total amout of views, likes and comments) of your LinkedIn posts.
+A python script that collects data (total amount of views, likes and comments) of your LinkedIn posts.
 
 ## Prerequisites
 Python 3 (tested with version 3.7.3).
