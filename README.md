@@ -13,7 +13,7 @@ python linkedinData.py
 
 The script will log in to your LinkedIn page and scroll through it. It counts amount of views, comments and likes of your posts and finally prints out the result.
 
-Please note that the script will start Chrome in headless mode (i.e. browser not visible). Should you like to see the browser then either comment line 31 or change options.headless from True to False on the same line.
+Please note that the script will start Chrome in headless mode (i.e. browser not visible). Should you like to see the browser then either comment line 30 or change options.headless from True to False on the same line.
 
 ## Authon
 Antti Jääskö
