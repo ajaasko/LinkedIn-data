@@ -3,9 +3,10 @@ A python script that collects data (total amount of views, likes and comments) o
 
 ## Prerequisites
 Python 3 (tested with version 3.7.3).
+
 Selenium library
 
-Chrome browser and chromedriver. Please check that versions of your broser and choromederiver matches. Tested with browser version  77.0.3865.90 and correcponding chromedriver version. Chromedrivers can be downloaded from here: https://chromedriver.chromium.org/
+Chrome browser and chromedriver. Please check that versions of your browser and choromederiver matches. Tested with browser version  77.0.3865.90 and correcponding chromedriver version. Chromedrivers can be downloaded from here: https://chromedriver.chromium.org/
 
 ## Running the script
 python linkedinData.py
